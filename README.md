@@ -15,3 +15,8 @@ Breve Temario:
   10. OTP
   12. Programación Web
   11. Reflexión y Metaprogramación
+
+## Modo de trabajo
+
+Al ser un curso para personas que ya programan, en vez de crear documentos, sobre el código comentaré
+las cosas que se necesitan aprender.

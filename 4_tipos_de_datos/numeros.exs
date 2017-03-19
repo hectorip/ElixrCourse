@@ -28,3 +28,4 @@ div(6, 7) # 0
 # Módulo => restante de la división entera
 # restante(a,b) = a - (b * div(a, b))
 rem(10, 3) # 1
+
