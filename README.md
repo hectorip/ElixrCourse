@@ -6,7 +6,7 @@ Breve Temario:
   1. ¿Por qué importa el lenguaje de programación? - Por qué es tan importante la elección de la herramienta adecuada
   2. ¿Por qué Elixir? - Características principales del lenguaje e Historia
   3. Introducción al paradigma funcional
-  4. Tipos de datos
+  4. Varaibles, Tipos de datos y Pattern Matching
   5. Estucturas de Control
   8. Funciones
   7. Módulos
