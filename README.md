@@ -37,4 +37,4 @@ Libros:
 
 Cursos en internet:
 
-  - ElixirSchool (Español)
+  - [ElixirSchool](https://elixirschool.com/es/) (Español)
