@@ -31,9 +31,9 @@ siguientes recursos están en el este idioma.
 
 Libros:
 
-  -  Programming Elixir
-  -  Metaprogramming Elixir por Chris McCord
-  -  Programming Phoenix
+  -  [Programming Elixir](https://pragprog.com/book/elixir13/programming-elixir-1-3) por Dave Thomas - $25 USD
+  -  [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir) por Chris McCord - $11 USD
+  -  [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) por 
 
 Cursos en internet:
 
