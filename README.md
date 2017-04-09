@@ -38,3 +38,6 @@ Libros:
 Cursos en internet:
 
   - [ElixirSchool](https://elixirschool.com/es/) (Español)
+
+Algunas Conferencias:
+  - [Why Elixir should take over the world](https://www.youtube.com/watch?v=X25xOhntr6s) por [Jessica Kerr (Jessitron)](http://jessitron.com/)
