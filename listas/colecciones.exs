@@ -7,6 +7,7 @@
     {:miperro, "botas"},
     {:key2, 2120},
     {:unalista, [90, 90, 90]}
-  ] # Keyword
+  ] 
+  # Keyword
   # not connected
   atom_list = [miperro: "botas", otro_atomo: "lista", tercer_atomo: 3]
