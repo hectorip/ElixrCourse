@@ -1,0 +1,24 @@
+Expresiones Regulares
+
+a   ->   a
+ab  ->   ab
+makoto  ->   makoto
+a|b   -> a, b /!= ab
+a* -> (vacío), a, aa, aaa, aaaa, aaaaa, aaaaaaaaa, aaaaaaa(infinito)    "a repetido 0 o más veces(infinito)"
+
+a+ -> a, aa, aaaaa, aaaa, aaaa, aaaa, "a repetida 1 o más veces"
+
+a{0, 5}  -> "", a, aa, aaa, aaaa, aaaaa
+
+. -> cualquier caracter una vez (a, b, c, d, e, f, 7, " ")
+.* -> acepta culaquier cadena, incluso la vacía
+
+[a-z] -> todos los caracteres de a hasta Z
+[A-Z] -> todos los carcteres de A hasta Z
+[0-9] -> todos los caracteres de 0 hasta 9
+[^a]  -> Todos los caracteres, excepto la "a"
+
+Ejemplo:
+
+<[^<>]+>
+
